@@ -1,4 +1,4 @@
-# Taller6-PatronesDiseno
+# Taller6 - **Patrones de Diseno**
 ## Grupo 6
 ### Integrantes:
 - Paúl Soria
