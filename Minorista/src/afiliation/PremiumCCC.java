@@ -1,4 +1,4 @@
-package afiliation;
+gitpackage afiliation;
 
 public class PremiumCCC extends CreditCardCreator {
 
@@ -9,5 +9,6 @@ public class PremiumCCC extends CreditCardCreator {
     public abstract Create() {
         return new PremiumCC();
     }
-     
+
+    
 }
