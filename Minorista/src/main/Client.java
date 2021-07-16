@@ -1,7 +1,7 @@
 package main;
 
-import decorator.INotificacion;
-import decorator.Notificacion;
+import notificacion.INotificacion;
+import notificacion.Notificacion;
 
 public class Client {
 	private INotificacion noti;

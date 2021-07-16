@@ -1,4 +1,4 @@
-package decorator;
+package notificacion;
 
 public class WireDecorator extends NotificacionDecorator {
 	

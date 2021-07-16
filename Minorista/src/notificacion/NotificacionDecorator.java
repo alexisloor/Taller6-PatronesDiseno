@@ -1,4 +1,4 @@
-package decorator;
+package notificacion;
 
 public abstract class NotificacionDecorator implements INotificacion {
 	private INotificacion notificacionDecorada;

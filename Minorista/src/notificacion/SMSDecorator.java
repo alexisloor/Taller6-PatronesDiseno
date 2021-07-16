@@ -1,4 +1,4 @@
-package decorator;
+package notificacion;
 
 public class SMSDecorator extends NotificacionDecorator {
 	
