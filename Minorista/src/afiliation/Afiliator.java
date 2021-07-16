@@ -9,13 +9,13 @@ public class afiliation {
         while (clientBank != null) {
             switch (bankType) {
                 case "Ahorros":
-                    return new BasicCCC();
+                    return BasicCCC().Create();
                     break;
                 case "Corriente":
-                    return new PremiumCCC();
+                    return PremiumCCC().Create();
                     break;
                 case "Inversionista":
-                    return new VIPCC();
+                    return VIPCC().Create();
                     break;
                 default:
                     break;
