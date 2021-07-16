@@ -1,6 +1,6 @@
 package afiliation;
 
-public class VIPCC {
+public class VIPCC implements CreditCardgit {
     this.CreditLimit = 3000;
     this.Cost = 12.99;
     
